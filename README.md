@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 🔭 I’m currently working on my e-learning-website
+
 <!--
 **devendra-alt/devendra-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
