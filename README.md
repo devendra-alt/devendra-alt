@@ -2,4 +2,9 @@
 ![devendra-alt's Stats](https://github-readme-stats.vercel.app/api?username=devendra-alt&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![devendra-alt's Streak](https://github-readme-streak-stats.herokuapp.com/?user=devendra-alt&theme=tokyonight&hide_border=true)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
