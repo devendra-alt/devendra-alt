@@ -68,7 +68,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  /> 
 </div>
- <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" align="right" width="174">
+ <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" align="right" width="374">
 <div align="center">
 <img src="https://raw.githubusercontent.com/devendra-alt/devendra-alt/output/snake.svg" alt="Snake animation" />
 </div>
