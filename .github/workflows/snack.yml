@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Generate snake.svg
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v2
         with:
           github_user_name: ${{ github.repository_owner }}
           output_file: dist/snake.svg
