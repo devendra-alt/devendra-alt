@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Applications<br>👯 I’m looking to collaborate on Website Applications<br>🌱 I’m currently learning test-driven development in javascript<br>💬 Ask me about Anything tech
+🔭 I’m currently working on Web Applications<br>👯 I’m looking to collaborate on Website Applications Development<br>🌱 I’m currently learning test-driven Web development in javascript ecosystem <br> 💬 Ask me about Anything related to tech
 
 
 ## 🌐 Socials:
