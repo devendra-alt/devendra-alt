@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Applications<br>👯 I’m looking to collaborate on Website Applications Development<br>🌱 I’m currently learning test-driven Web development in javascript ecosystem <br> 💬 Ask me about Anything related to tech
+🔭 I’m currently working on Web Applications. <br>👯 I’m looking to collaborate on Website application development. <br>🌱 I’m currently learning the Ruby On Rails development ecosystem. <br> 💬 Ask me about Anything related to tech.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=devendra-alt&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
